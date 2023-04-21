@@ -7,7 +7,8 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "onedark",
+      colorscheme = "onedark", 
+      -- after load first time, command colorscheme, so it can load tokyo too
     },
   },
 }
