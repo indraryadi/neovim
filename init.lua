@@ -1,3 +1,1 @@
--- bootstrap lazy.nvim, LazyVim and your plugins
-require("config.lazy")
-vim.cmd([[ set background=light ]])
+require("kira")
